@@ -20,7 +20,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=100&section=header&reversal=false&text=Python%20%7C%20C%20%7C%20CPP%20%7C%20ML&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=1&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=100&section=header&reversal=false&text=Python%20%7C%20C%20%7C%20CPP%20%7C%20ML&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=1&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
@@ -81,12 +81,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=pomipower&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
