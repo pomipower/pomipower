@@ -1,4 +1,4 @@
-<img align="left" height="100" src="https://cdni.iconscout.com/illustration/premium/thumb/employee-doing-machine-learning-process-illustration-download-in-svg-png-gif-file-formats--ml-ai-training-supervised-unsupervised-science-technology-pack-illustrations-11837718.png"  />
+<img align="left" height="150" src="https://cdni.iconscout.com/illustration/premium/thumb/employee-doing-machine-learning-process-illustration-download-in-svg-png-gif-file-formats--ml-ai-training-supervised-unsupervised-science-technology-pack-illustrations-11837718.png"  />
 
 ###
 
